@@ -1,6 +1,8 @@
 # my-drama-list
+Website where you can store the list of dramas , movies, or your todo lists.
 
 #How to use
+
 1)download the zip file and extract it
 2)open the folder in vs code
 3} now dowload the data.sql file in the server folder 
